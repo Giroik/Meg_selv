@@ -1,0 +1,285 @@
+body
+{
+
+}
+#menu
+{
+    color: blanchedalmond;
+    text-align: center;
+    position: fixed;
+    left: 30%;
+    padding: 0px 0px 0px 0px ;
+    max-width: 700;
+    z-index: 4;
+    background-color:gray;
+    opacity: 80%;
+}
+#menu a
+{
+    padding:0px 50px;
+}
+#menu a:hover
+{
+    background-color: black;
+}
+.Menu111
+{
+    color: black;
+    text-decoration: none;
+}
+.Menu111:hover
+{
+    color: red;
+}
+#img1
+{
+    background-image: url(img/polygons.png);
+    background-repeat: no-repeat;
+    width: 70%;
+    position: relative;
+    left:15%;
+    top: 20px;
+    height: 500px;
+    text-align: center;
+}
+#img2
+{
+    width: 400px;
+    
+}
+.img1
+{
+    z-index: 2;
+    width: 90%;
+    position: relative;
+    left:5%;
+    top: 20px;
+    z-index: 3;
+}
+.imgb1
+{
+    border-width: 3px;
+    width: 23%;
+    height: 410px;
+    border-style: ridge;
+    display: inline-block;
+
+}
+#T1, #T2, #B1
+{
+    color: white;
+    position: relative;
+    top:200px;
+}
+#T1
+{
+    font-size: 30px;
+}
+#B1
+{
+    color: black;
+    padding: 10px;
+    width: 110px;
+    border-radius: 10px;
+}
+#O1
+{
+        text-align: center;
+        margin: 60px 0px 0px 0px;
+        font-size: 25px;
+}
+#TK1
+{
+    width: 40%;  
+    margin: 0px 0px 0px 15%; 
+    display: inline-block;
+}
+#P1, #P2
+{
+    text-align: center;
+}
+#P1
+{
+    font-size: 25px;
+}
+.T1, .J1, .OP1
+{
+    position: relative;
+    left:5%;
+}
+.T1
+{
+    text-align: left;
+    margin:30px 0px 5%;
+    font-size: 20px;    
+}
+#M1
+{
+    display: inline;
+    margin:0px 2.5%;
+}
+.J1
+{
+    font-size: 15px;
+    opacity: 80%;
+}
+.BU1
+{
+    width: 90%;
+    position: relative;
+    left:5%;
+    height: 35px;
+    background-color: rgb(68, 68, 189);
+    border-radius: 10px;
+}
+.BU1:hover
+{
+    background-color: black;
+    color: white ;
+}
+#TAR
+{
+    padding-top: 15px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    height:500px;
+}
+#TT1
+{
+    font-size: 20px;
+
+}
+.TAR
+{
+    height: 316px;
+    width: 27%;
+    background-color: rgb(201, 201, 201);
+    display: inline-block;
+    
+}
+.TABLE1
+{
+    width: 100%;
+    margin: 0px;
+}
+.WHITE
+{
+    background-color: white;
+    color: black;
+}
+.BIG
+{
+  height: 100px;  
+}
+.OV1
+{
+    color: white;
+    background-color: black;
+}
+.OV1:hover
+{
+    background-color: blue;
+}
+.RED
+{
+    background-color: black;
+}
+.BlackB
+{
+    background-color: black;
+    color: white;
+    width:23%;
+    height: 30px;
+    border-radius: 10px;
+}
+.TABLE1:hover
+{
+    background-color: blue;
+    
+}
+td
+{
+    padding: 4px;
+}
+#MD
+{
+    position: relative;
+    top:17px;
+    width: 27%;
+    background-color: rgb(201, 201, 201);
+    display: inline-block;
+    height: 350px;
+}
+#A10
+{
+    opacity: 30%;
+}
+.final
+{
+    text-align: center; 
+    background-color: rgb(209, 203, 203);
+}
+.FFF
+{
+    background-color: rgb(209, 203, 203);
+}
+.final2
+{
+    padding: 10px;
+}
+.N2
+{
+    padding: 0px;
+    margin:10px 5% ;
+    width: 90%;
+}
+.FFF2
+{
+    margin: 0px 5%;   
+}
+.logo1
+{
+    width: 20px;
+    margin: 0px 7px;
+}
+.end
+{
+    position: relative;
+    bottom: 13px;
+    color: white;
+    font-size:small;
+    background-color: black;
+}
+#end
+{
+    position: relative;
+    left:43%;
+    margin: 30px;
+    bottom: 40px;
+    background-color: black;
+    color: white; 
+    border-radius: 10px;
+    height: 30px;
+}
+#F10
+{
+    font-size: x-large;
+}
+.OV2
+{
+    color: white;
+    background-color: black;
+    height: 80px;
+}
+.lan
+{
+    padding: 0px 10px;
+    text-decoration: none;
+    color: black;
+}
+.language
+{
+    position: fixed;
+    left:90%;
+}

@@ -1,0 +1,13 @@
+
+#hear{
+    background: url(1.png);
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+}
+#Sheart:hover{
+    background: url(2.png);
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+}

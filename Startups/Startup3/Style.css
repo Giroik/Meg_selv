@@ -1,0 +1,311 @@
+body
+{
+    background-color: rgb(248, 248, 248);
+}
+.heart{
+	background: url(звезда/2.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 300px;
+    bottom: 140px;
+}
+
+.white-heart{
+	background: url(звезда/1.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+/* меню */
+.menu1
+{
+    width: 300px;
+    display: inline;
+    margin: 15px;
+}
+.menu2
+{
+    margin: 15px;
+    position: relative;
+    left:78%;
+    bottom: 50px;
+}
+.menu3
+{
+    margin: 10px;
+}
+.menuimg
+{
+    position: relative;
+    top:9px;
+    right: 5px;
+}
+.logo
+{
+    position: relative;
+    left: 47%;
+    bottom: 65px;
+}
+#menu1
+{
+    position: relative;
+    left: 29.5%;
+    bottom: 60px;
+    width: 60%;
+}
+#I1
+{
+    position: relative;
+    bottom: 30px;
+    left: 28%;
+    font-size: 15px;
+}
+/*второе меню*/
+#otziv
+{
+    z-index: 3;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    top: 92%;
+    text-align: center;
+}
+#width
+{
+    width: 70%;
+    height: 100%;
+    position: relative;
+    bottom: 16px;
+}
+#width2
+{
+    width: 25%;
+    text-align: left;
+    left: 72%;
+    position: relative;
+    bottom:72px;
+    opacity: 80%;
+}
+.raz
+{
+padding: 6px 10px;
+font-size: 20px;
+}
+#REC
+{
+position: relative;
+top: 10px;
+}
+/*правая панелька и кaртинки основные*/
+#heart0
+{
+    position: relative;
+    bottom: 230px;
+    left: 450px;
+}
+.img1
+{
+    position: relative;
+    left:2% ;
+    width: 620px;
+}
+.prise
+{
+width: 100px;
+}
+#bw
+{
+    font-size: 15px;
+}
+.img2
+{
+    width: 70px;
+    opacity: 80%;
+}
+
+.star1
+{
+    position: relative;
+    left: 72%;
+    bottom: 953px;
+    font-size: 20px;
+    width: 500px;
+}
+.img2:hover
+{
+    opacity: 100%;
+}
+.ADD
+{
+    width: 97%;
+    height: 40px;
+    color:white;
+    font-size: 17px;
+    background-color: rgb(33,33,33);
+}
+
+#finde
+{
+    z-index: 1;
+    background-color: rgb(248, 248, 248);
+    border-color: rgb(248, 248, 248);
+    border-bottom-color:black ;
+    position: relative;
+    left:88%;
+    bottom: 90px;
+    resize: none;
+}
+#lupa
+{
+    z-index: 2;
+    position: relative;
+    left:90%;
+    bottom: 100px;
+}
+#price
+{
+    position: relative;
+    left: 79%;
+    width: 300px;
+    background-color: rgb(248, 248, 248);
+}
+#select 
+{
+height: 40px;
+width: 97%;
+border-color: rgb(189, 188, 188);
+}
+h5
+{
+    width: 40%;
+    display: inline;
+    position: relative;
+    bottom: 7px;
+}
+::placeholder
+{
+    text-align: center;
+}
+/*текст под картинками*/
+#opptions
+{
+    background-color: white;
+    position: relative;
+    left: 2%;
+    bottom: 370px;
+    width: 66%;
+    height: 420px;
+}
+h4
+{
+    font-size: 18px;
+}
+#OP2
+{
+    width: 50%;
+    position: relative;
+    left:25%;
+    padding: 20px 0px;
+}
+.inl
+{
+width: 50%;
+display: inline;
+opacity: 70%;
+}
+.inl2
+{
+    width: 50%;
+    display: inline;
+}
+.linia
+{
+    position: relative;
+    right: 3px;
+}
+/*рекомендации фото*/
+.KK1
+{
+    width: 340px;
+    position: relative;
+    height: 480px;
+    opacity: 80%;
+}
+.KK1:hover
+{
+    opacity: 100%;
+}
+#kk1
+{
+    font-size: 30px;
+}
+#OM
+{
+    position: relative;
+    bottom: 100px;
+    width: 79%;
+    left: 13.5%;
+}
+#STP
+{
+    position: relative;
+    bottom: 350px;
+    right: 96%;
+}
+#STL
+{
+    position: relative;
+    bottom: 350px;
+}
+.foto
+{
+    display: inline-block;
+}
+.heart:hover
+{
+    background: url(img/1.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+}
+/*Низжнее меню*/
+.Nizmenu
+{
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+    height: 600px;
+    text-align: center;
+}
+.blockinfo
+{
+    text-align: left;
+    width: 15%;
+    display: inline-block;
+}
+#m1
+{
+    position: relative;
+    bottom: 11px;
+}
+#m2
+{
+    position: relative;
+    top:50px;
+}
+#m3
+{
+    position: relative;
+    bottom: -18px;
+}
+#m4
+{
+    position: relative;
+    bottom: 80px;
+}
+.LLL:hover
+{
+    font-size: 20px;
+}

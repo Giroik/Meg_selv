@@ -1,0 +1,255 @@
+body
+
+
+.menu1
+{
+    margin: 0px 0px;
+    left: 20%;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    text-decoration: none;
+}
+.img1
+{
+    width: 400px;
+    position: relative;
+    left:40%;
+    padding: 15px;
+    border-radius: 40px;
+    opacity: 60%;
+}
+.line
+{
+    background-color: rgb(47, 5, 75);
+    width: 70%;
+    position: relative;
+    left: 29%;
+    height: 15px;
+    border-radius: 10px;
+    bottom: 40px;
+}
+.text
+{
+    position: relative;
+    left:29%;
+    width:71%;
+    font-size: 20px;
+    bottom: 30px;
+}
+.DD
+{
+    display: inline-block;
+    width:320px;
+    position: relative;
+    left: 29%;
+}
+.DD1
+{
+    width: 300px;
+    position: relative;
+    border-radius: 20px;
+    margin: 15px;
+    right: 5px;
+}
+.nname
+{
+    background-color: rgb(214, 214, 214);
+    width:94%;
+    position: relative;
+    left: 10px;
+    border-radius: 10px;
+    bottom: 20px;
+}
+.name
+{
+    margin: 15px;
+    width: 200px;
+    text-align: left;
+    font-size: 30px;
+}
+.name2
+{
+    width: 200px;
+    text-align: left;
+    font-size: 20px;
+    opacity: 60%;
+    margin: 15px;
+}
+.name3
+{
+    width: 200px;
+    text-align: left;
+    font-size: 20px;
+    margin: 15px;
+}
+.TABLE
+{
+    text-align: center;
+    width: 450px;
+    margin: 0px;
+    height: 600px;
+    
+}
+
+.TT
+{
+    margin: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    width:450px;
+    position: relative;
+    left: 29%;
+    background-color: rgb(209, 207, 207) ;
+    
+}
+.Basic
+{
+    background-color: rgb(209, 207, 207);
+    position: relative;
+    font-size: 20px;
+}
+.price
+{
+    font-size: 25px;
+}
+td
+{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: gray;
+    border-bottom-style: solid;
+}
+input
+{
+    position: relative;
+    left: 24%;
+    padding: 0px;
+    margin:10px 5% ;
+    width: 65%;
+}
+.support
+{
+    text-align: top;
+}
+label
+{
+    position: relative;
+    left: 29%;
+}
+input
+{
+    height: 30px;
+}
+
+
+
+
+#menu
+{
+    background-color: rgb(47, 5, 75);
+    position: fixed;
+    width: 15%;
+    left: 3%;
+    bottom:-2%;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 10px 0px ;
+    border-radius: 20px;
+    height: 100%;
+    text-align: left;
+    
+}
+#AA
+{
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+#name
+{
+    position: relative;
+    left:29%;
+    width:80%;
+    text-align:left;
+    font-size: 90px;
+}
+.Zag
+{
+    font-size: 70px;
+    position: relative;
+    left: 29%;
+    color: rgb(47, 5, 75);
+}
+#simg
+{
+    width: 70%;
+    display: inline-block;
+}
+#BBB
+{
+    position: relative;
+    left:29%;
+    width:71%;
+    font-size: 40px;
+    bottom: 30px;
+}
+#designers
+{
+    position: relative;
+    left:29%;
+    width:71%;
+
+}
+#B1
+{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: indigo;
+}
+#BB1
+{
+    background-color: rgb(214, 214, 214) ;
+}
+#days
+{
+    font-size: 20px;
+}
+#B2
+{
+    font-size: 20px;
+    background-color: rgb(255, 94, 0);
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+    color: white;
+}
+#Nazv
+{
+    color: white;
+    background-color: indigo;
+    font-size: 30px;
+    border-radius: 10px;
+}
+#Nazv2 
+{
+    color: white;
+    background-color: rgb(255, 94, 0);
+    font-size: 30px;
+    border-radius: 10px;
+}
+#Send
+{
+    position: relative;
+    left: 29%;
+    width:65.3%;
+    height: 40px;
+    background-color: rgb(47, 5, 75);
+    color: white;
+    border-radius: 10px;
+    font-size:20px ;
+}
+/*head*/
